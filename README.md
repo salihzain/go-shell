@@ -10,13 +10,13 @@ Note: this is an extremely naive implementation of the shell. Nonetheless, it wa
 
 
 
-​						 ![](/home/salih/sigmazain/go-shell/img/go-shell.gif)
+​						 ![](./img/go-shell.gif)
 
 
 
 **Wanna see a cool trick?**
 
-​						![](/home/salih/sigmazain/go-shell/img/rec.gif)
+​						![](./img/rec.gif)
 
 Isn't that cool? My `go-shell` can run itself 😁
 
@@ -24,7 +24,7 @@ Isn't that cool? My `go-shell` can run itself 😁
 
 **Wanna see another cool trick because my go-shell doesn't support pipelining?**
 
-​						![](/home/salih/sigmazain/go-shell/img/pipe.gif)
+​						![](./img/pipe.gif)
 
 Isn't that funny 😝 CS is just fascinating 💙
 
